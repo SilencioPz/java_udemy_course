@@ -1,4 +1,2 @@
 *.java language=java
-*.py language=python
-*.md language=markdown
-
+*.class language=java
