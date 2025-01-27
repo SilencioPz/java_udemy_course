@@ -18,3 +18,8 @@ I also recommend <a href="https://api.blackbox.ai/" style="text-decoration: unde
 Using Linux, use this command: <code>java -jar /path/to/your/file/Swing2.jar</code> -> You can also in the Downloads folder, press right on the mouse and select Open In Terminal and just type: <code>java -jar Swing2.jar</code> -> More direct and easy.<br>
 On Windows, as far as I remember, you can download a JRE from Oracle and with the right app open the jar file and see the GUI.
 </p>
+<h3 align="center" style="font-size: 12px;">IMPORTANT</h3>
+
+<p align="justify" style="font-size: 10px;">
+This branch has the files for better visualization/analysis of the code.
+</p>
