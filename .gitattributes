@@ -1,0 +1,4 @@
+*.java language=java
+*.py language=python
+*.md language=markdown
+
