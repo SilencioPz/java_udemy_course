@@ -1,2 +1,2 @@
-*.java language=java
-*.class language=java
+*.java linguist-language=Java
+*.class linguist-detectable=false
